@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+
+# Model files
+*.pt
+best_model.pt
+
+# Data files
+data/
+plots/
+
+# Output files
+output.json
