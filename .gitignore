@@ -1,2 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Model files
+*.pt
 best_model.pt
-data/lettercounting-train.txt
+
+# Data files
+data/
+plots/
+
+# Output files
+output.json
